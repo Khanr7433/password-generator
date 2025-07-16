@@ -19,8 +19,6 @@ A modern, secure password generator built with React and Vite. Generate strong, 
 
 [View Live Demo](https://password-generator-three-blue-53.vercel.app/)
 
-## 📸 Screenshots
-
 ### Desktop View
 
 ```
@@ -74,7 +72,6 @@ A modern, secure password generator built with React and Vite. Generate strong, 
 ```
 password-generator/
 ├── public/
-│   └── vite.svg
 ├── src/
 │   ├── App.jsx          # Main application component
 │   ├── main.jsx         # Application entry point
@@ -144,11 +141,14 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 👨‍💻 Author
+## � Contact
 
-**Khanr7433**
+**Rashid Khan**
 
-- GitHub: [@Khanr7433](https://github.com/Khanr7433)
+- 📧 Email: khan.rashid.7433@gmail.com
+- 🐙 GitHub: https://github.com/Khanr7433
+- 🔗 Project Repository: https://github.com/Khanr7433/password-generator
+- 🌐 Live Demo: https://password-generator-three-blue-53.vercel.app/
 
 ## 🙏 Acknowledgments
 
